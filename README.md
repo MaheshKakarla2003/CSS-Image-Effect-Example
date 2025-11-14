@@ -19,7 +19,7 @@ The effect gives a dynamic look to image cards, suitable for landing pages, port
 ---
 
 ## 🎬 Demo Preview
-![Project Demo](Recording 2025-11-14 130449.gif)
+![Project Demo](./Recording 2025-11-14 130449.gif)
 
 ---
 ## 💡 What You’ll Learn
