@@ -20,7 +20,7 @@ The effect gives a dynamic look to image cards, suitable for landing pages, port
 
 ## 🖼️ GIF Preview
 
-<img src="./Recording%202025-11-14%20130449.gif" alt="Demo GIF" width="350">
+<img src="./Recording%202025-11-14%20130449.gif" alt="Demo GIF" width="350" controls>
 
 ---
 ## 💡 What You’ll Learn
