@@ -20,7 +20,9 @@ The effect gives a dynamic look to image cards, suitable for landing pages, port
 
 ## 🖼️ GIF Preview
 
-<img src="./Recording%2025-11-14%130449-ezgif.com-loop-count.gif" alt="Demo GIF" width="350">
+<div align="center">
+  <img src="./Recording2025-11-14130449-ezgif.com-loop-count.gif" alt="CSS Image Hover Effect Demo" width="400">
+</div>
 
 ---
 ## 💡 What You’ll Learn
