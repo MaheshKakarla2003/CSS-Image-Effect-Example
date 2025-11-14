@@ -18,16 +18,10 @@ The effect gives a dynamic look to image cards, suitable for landing pages, port
 - **CSS3** – for layout, transitions, and hover animations
 ---
 
-## 🎬 Video Demo
-
-Here’s a video demonstration of how this effect works:
-
-[![Watch the Video](https://img.icons8.com/ios-filled/50/fa314a/play--v1.png)](./Screen%20Recording%202025-11-14%20124440.mp4)
-
-> *(Click the play icon above to watch the demo video directly from this repository.)*
+## 🎬 Demo Preview
+![Project Demo](demo.gif)
 
 ---
-
 ## 💡 What You’ll Learn
 
 - How to overlay content using **absolute positioning**
