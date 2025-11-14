@@ -18,8 +18,10 @@ The effect gives a dynamic look to image cards, suitable for landing pages, port
 - **CSS3** – for layout, transitions, and hover animations
 ---
 
-## 🎬 Demo Preview
-![Project Demo](./Recording 2025-11-14 130449.gif)
+## 🖼️ GIF Preview
+
+![CSS Image Hover Effect Demo](./Recording%202025-11-14%20130449.gif)
+
 
 ---
 ## 💡 What You’ll Learn
